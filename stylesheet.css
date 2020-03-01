@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+}
+
+body {
+	height: 100%;
+    font: 400 1em Lato, sans-serif;
+    line-height: 1.8;
+    color: black;
+}
+
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+h3 {
+	font-size: 2em;
+	line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px; 
+}  
+
+.content {
+	margin: 4em;
+}

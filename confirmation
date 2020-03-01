@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <title>Peti&#539ie Ad&#259post Animale</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+<body>
+    <div class="h-100 d-flex justify-content-center align-items-center">
+        <div style="text-align: center">
+            <h1>AI SEMNAT CU SUCCES !</h1>
+            <h3>Peti&#539ia cu num&#259rul X a fost &#238nregistrat&#259.</h3>
+        </div>
+    </div>
+</body>
+
+</html>
